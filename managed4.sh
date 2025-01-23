@@ -19,4 +19,4 @@ else
     echo "Package python3-colorama not found in the repositories."
 fi
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/lightweight.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/jadopcb/6TO4-GRE-IPIP-SIT/main/lightweight.sh)"
